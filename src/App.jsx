@@ -37,7 +37,7 @@ const projects = [
     },
 
     github:
-      "https://github.com/YOUR_USERNAME/plant-disease-detection",
+      "https://github.com/muwanguziemmanuel2404/tomatodisease",
 
     live: "#",
   },
@@ -78,7 +78,7 @@ const projects = [
     },
 
     github:
-      "https://github.com/YOUR_USERNAME/product-sales-analysis",
+      "https://github.com/muwanguziemmanuel2404/Product-Sales",
 
     live: "#",
   },
@@ -118,7 +118,7 @@ const projects = [
     },
 
     github:
-      "https://github.com/YOUR_USERNAME/church-website",
+      "https://github.com/muwanguziemmanuel2404/church-website",
 
     live: "#",
   },
