@@ -1,16 +1,99 @@
-# React + Vite
+# Emmanuel Muwanguzi — Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Professional portfolio showcasing my work across software engineering, data science, machine learning and frontend development.
 
-Currently, two official plugins are available:
+The portfolio highlights selected projects, technical skills and practical experience, with a focus on building useful, data-driven and user-focused solutions.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Live Portfolio
+[Add your Netlify URL here]
 
-## React Compiler
+About
+I am an MSc Data Science graduate with a strong foundation in software development, data analysis, machine learning and applied AI.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+My work combines analytical thinking with practical software development, from exploring and interpreting data to building responsive web applications and machine-learning solutions.
 
-## Expanding the ESLint configuration
+I am particularly interested in graduate and early-career opportunities across:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Software Engineering
+Data Science
+Data Analytics
+Data Engineering
+Machine Learning
+Applied AI
+Frontend / Full-Stack Development
+Featured Projects
+Plant Disease Detection
+A machine-learning application for image-based tomato leaf disease classification.
+
+Technologies:
+
+Python
+Machine Learning
+React
+API
+Git
+Product Sales Analysis
+An end-to-end data analysis project focused on transforming raw sales data into actionable business insights.
+
+Technologies:
+
+Python
+Pandas
+SQL
+Data Analysis
+Data Visualisation
+Church Website
+A responsive web application developed for a real-world stakeholder, focusing on accessibility, clear information architecture and a consistent user experience.
+
+Technologies:
+
+React
+JavaScript
+HTML
+CSS
+Responsive Design
+Technologies
+Python
+JavaScript
+React
+SQL
+Machine Learning
+Pandas
+REST APIs
+HTML & CSS
+Git & GitHub
+Data Analysis
+Data Visualisation
+Running Locally
+Clone the repository:
+
+git clone https://github.com/muwanguziemmanuel2404/emmanuel-muwanguzi-portfolio.git
+Navigate into the project:
+
+cd emmanuel-muwanguzi-portfolio
+Install dependencies:
+
+npm install
+Start the development server:
+
+npm run dev
+The application will then be available through the local development URL provided by Vite.
+
+Production Build
+To create a production build:
+
+npm run build
+To preview the production build locally:
+
+npm run preview
+Deployment
+The portfolio is deployed using Netlify and is automatically built from this GitHub repository.
+
+Contact
+Email: muwanguziemmanuel2404@gmail.com
+
+GitHub: https://github.com/muwanguziemmanuel2404
+
+LinkedIn: https://www.linkedin.com/in/emmanuel-muwanguzi-511821216/
+
+Built with React and Vite. :::
